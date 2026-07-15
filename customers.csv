@@ -1,0 +1,251 @@
+customer_id,name,email,city,amount,signup_date
+1,David,user2#example.com,Chennai,8957,2024-04-26
+2,  David,user3@example.com,Delhi,2349,2025-05-14
+3,Olivia,user4@example.com,Chennai,2269,2024-10-20
+4,Alice   ,user5@example.com,Mumbai,3659,2024-10-03
+5,  Emma,user6@example.com,Hyderabad,9933,2025-09-29
+6,  Alice   ,user7#example.com,Hyderabad,2155,2024-03-21
+7,Sophia,user8#example.com,Chennai,2389,2025-01-11
+8,  Emma,user9@example.com,Chennai,1298,2025-11-17
+9,Sophia   ,user10@example.com,Delhi,2215,2025-11-25
+10,Ava,,,3085,2025-06-26
+11,  Ava,user12@example.com,Mumbai,1708,2025-08-28
+12,Sophia,user13@example.com,Delhi,,2024-12-29
+13,  Emma   ,user14@example.com,Pune,4990,2025-07-07
+14,  John,user15@example.com,Hyderabad,5251,2025-10-12
+15,Emma,user16@example.com,Delhi,1039,2025-09-14
+16,Bob,user17@example.com,Hyderabad,6384,2025-08-01
+17,  Ava,user18@example.com,Hyderabad,2585,2025-07-06
+18,Michael,user19@example.com,Chennai,7318,2025-05-22
+19,Olivia   ,user20#example.com,,1858,2025-11-12
+20,  David,user21@example.com,Hyderabad,6484,2024-02-05
+21,Olivia,,Hyderabad,6710,2024-02-09
+22,Michael,user23#example.com,Hyderabad,6798,2024-08-30
+23,  Sophia,user24@example.com,Pune,9408,2024-11-11
+24,Michael   ,user25@example.com,Bangalore,5797,2024-07-05
+25,Bob,user26@example.com,Mumbai,,2024-09-29
+26,  Alice,user27@example.com,Hyderabad,9645,2024-09-11
+27,  John   ,user28@example.com,Mumbai,5528,2024-01-16
+28,John,user29@example.com,Hyderabad,4462,2025-09-07
+29,  John,user30@example.com,Chennai,2959,2025-05-09
+30,Alice,user31@example.com,Hyderabad,6057,2025-05-30
+31,Ava,user32@example.com,,6211,2025-04-09
+32,  David,,Mumbai,9791,2025-11-14
+33,Sophia,user34@example.com,Pune,9068,2024-11-05
+34,Ava   ,user35@example.com,Pune,4175,2024-03-08
+35,  James,user36#example.com,Chennai,5957,2024-04-03
+36,Bob,user37@example.com,Chennai,5392,2024-11-04
+37,Bob,user38@example.com,Hyderabad,9041,2024-08-28
+38,  Emma,user39@example.com,Bangalore,,2025-04-11
+39,James   ,user40@example.com,Delhi,4137,2024-07-25
+40,Emma,user41@example.com,Mumbai,3063,2025-04-24
+41,  Michael,user42#example.com,Delhi,7207,2025-05-01
+42,Ava,user43@example.com,,6390,2025-06-10
+43,Alice,,Mumbai,6210,2025-11-16
+44,  Alice,user45@example.com,Chennai,1943,2024-09-30
+45,Ava,user46@example.com,Mumbai,8451,2025-06-06
+46,Olivia,user47@example.com,Mumbai,2601,2024-02-03
+47,  Alice,user48@example.com,Hyderabad,6703,2024-06-12
+48,  Emma   ,user49@example.com,Hyderabad,3929,2024-11-06
+49,John   ,user50@example.com,Chennai,9012,2024-06-30
+50,  Bob,user51#example.com,Chennai,8232,2025-05-06
+51,Ava,user52@example.com,Delhi,,2025-11-29
+52,Ava,user53@example.com,Delhi,6525,2024-10-21
+53,  James,user54@example.com,Mumbai,1878,2024-05-11
+54,Olivia   ,,Pune,7914,2025-10-16
+55,  John   ,user56@example.com,,3411,2024-10-12
+56,  Emma,user57@example.com,Chennai,3673,2025-07-24
+57,Alice,user58@example.com,Mumbai,9757,2024-09-14
+58,Sophia,user59@example.com,Mumbai,8700,2025-04-30
+59,  Sophia,user60#example.com,Pune,7156,2024-01-19
+60,James,user61@example.com,Delhi,8549,2025-10-02
+61,Alice,user62@example.com,,4212,2025-04-08
+62,  John,user63@example.com,,1330,2024-10-19
+63,John,user64@example.com,,6772,2024-02-03
+64,James   ,user65@example.com,Hyderabad,,2024-07-09
+65,  David,,Bangalore,6588,2025-02-14
+66,John,user67@example.com,Mumbai,6723,2025-07-08
+67,Olivia,user68#example.com,Bangalore,8829,2024-01-07
+68,  Bob,user69@example.com,Hyderabad,1289,2024-06-26
+69,Alice   ,user70@example.com,,5279,2025-04-19
+70,Ava,user71@example.com,Chennai,6638,2024-09-08
+71,  John,user72@example.com,,4636,2024-01-17
+72,Emma,user73@example.com,Bangalore,7345,2025-03-06
+73,James,user74@example.com,Chennai,7307,2024-08-30
+74,  James,user75#example.com,Pune,5041,2024-11-28
+75,Sophia,user76@example.com,Chennai,3460,2024-12-14
+76,  Olivia   ,,Mumbai,3277,2025-07-27
+77,  Ava,user78@example.com,Pune,,2024-03-10
+78,Sophia,user79@example.com,Bangalore,2510,2025-11-06
+79,Ava   ,user80@example.com,,7273,2024-03-27
+80,  Sophia,user81@example.com,Delhi,2022,2025-02-24
+81,Ava,user82@example.com,,9083,2025-02-08
+82,Alice,user83@example.com,Hyderabad,9005,2024-08-16
+83,  James,user84@example.com,Bangalore,6118,2024-08-25
+84,Emma   ,user85#example.com,Delhi,6296,2024-09-13
+85,Michael,user86@example.com,Pune,9088,2024-01-23
+86,  Ava,user87@example.com,Mumbai,8031,2024-10-18
+87,Alice,,Bangalore,4542,2025-01-24
+88,John,user89@example.com,,2193,2025-04-05
+89,  Ava,user90@example.com,Chennai,6424,2025-04-18
+90,  David   ,user91@example.com,Bangalore,,2025-05-28
+91,Emma,user92@example.com,Pune,4103,2024-08-15
+92,  Emma,user93@example.com,Bangalore,6620,2025-08-13
+93,Bob,user94@example.com,Hyderabad,755,2024-09-07
+94,Sophia   ,user95@example.com,Mumbai,5378,2024-04-07
+95,  Ava,user96@example.com,Chennai,531,2024-04-27
+96,John,user97@example.com,Delhi,9643,2025-09-28
+97,  David   ,user98@example.com,Hyderabad,3511,2024-11-19
+98,  Bob,,Bangalore,4742,2024-05-27
+99,James   ,user100@example.com,Pune,3477,2025-09-18
+100,Michael,user101@example.com,Delhi,6717,2024-01-17
+101,  John,user102@example.com,Hyderabad,3944,2024-01-27
+102,Ava,user103@example.com,Chennai,3515,2025-11-17
+103,Alice,user104@example.com,Delhi,,2024-07-26
+104,  Ava,user105@example.com,,6269,2024-04-28
+105,Olivia,user106@example.com,Bangalore,5021,2024-03-24
+106,Michael,user107@example.com,Hyderabad,8524,2025-10-01
+107,  Sophia,user108@example.com,Pune,7751,2025-07-23
+108,Emma,user109@example.com,,3614,2024-06-08
+109,Emma   ,,,6604,2024-11-20
+110,  Alice,user111@example.com,Chennai,726,2024-04-06
+111,  Michael   ,user112@example.com,Hyderabad,6184,2024-05-09
+112,David,user113@example.com,Hyderabad,2324,2024-12-16
+113,  Olivia,user114@example.com,Hyderabad,1254,2025-09-23
+114,Michael   ,user115@example.com,Mumbai,8215,2024-08-09
+115,Michael,user116@example.com,Chennai,6969,2024-09-04
+116,  James,user117@example.com,Mumbai,,2024-10-28
+117,Ava,user118#example.com,Hyderabad,3285,2025-11-14
+118,  Alice   ,user119@example.com,Pune,5819,2025-09-26
+119,  John,user120@example.com,Chennai,8194,2025-04-29
+120,Ava,,,1796,2024-03-05
+121,James,user122@example.com,Hyderabad,7185,2025-01-09
+122,  Michael,user123@example.com,Delhi,5026,2024-09-13
+123,James,user124@example.com,Hyderabad,2571,2024-09-11
+124,Olivia   ,user125#example.com,Chennai,7370,2024-06-06
+125,  Alice,user126@example.com,,1685,2024-09-17
+126,Bob,user127@example.com,,4319,2025-09-15
+127,Ava,user128@example.com,Chennai,5814,2024-04-20
+128,  Michael,user129@example.com,Bangalore,6306,2025-06-25
+129,David   ,user130@example.com,Mumbai,,2024-09-13
+130,Emma,user131@example.com,Mumbai,7551,2025-07-06
+131,  John,,Delhi,7686,2025-10-31
+132,  Bob   ,user133@example.com,Chennai,9643,2024-02-08
+133,James,user134#example.com,Mumbai,2156,2025-07-18
+134,  David,user135@example.com,Mumbai,3328,2025-03-13
+135,Michael,user136@example.com,,1565,2025-04-17
+136,Alice,user137@example.com,Bangalore,3890,2024-10-17
+137,  Olivia,user138@example.com,Chennai,9214,2025-06-21
+138,John,user139@example.com,Pune,5895,2025-01-15
+139,Bob   ,user140@example.com,Delhi,5327,2024-02-18
+140,  Olivia,user141@example.com,Hyderabad,1339,2025-08-28
+141,Alice,user142@example.com,,1463,2025-07-29
+142,Olivia,,Pune,,2025-07-23
+143,  Michael,user144@example.com,Pune,9001,2024-05-08
+144,Olivia   ,user145@example.com,Hyderabad,3727,2024-10-28
+145,James,user146@example.com,Hyderabad,9701,2025-05-30
+146,  Bob,user147@example.com,Delhi,1492,2024-10-04
+147,Ava,user148@example.com,,2104,2025-01-12
+148,John,user149@example.com,Delhi,1577,2024-01-22
+149,  Sophia,user150@example.com,Delhi,9348,2025-02-04
+150,James,user151@example.com,Chennai,4760,2025-01-10
+151,Michael,user152@example.com,Hyderabad,7614,2024-03-20
+152,  David,user153@example.com,,3574,2025-08-15
+153,  Ava   ,,Delhi,4579,2024-11-30
+154,Emma   ,user155#example.com,,3239,2025-03-02
+155,  David,user156@example.com,Mumbai,,2024-10-29
+156,Olivia,user157@example.com,Delhi,6238,2024-09-04
+157,John,user158@example.com,Chennai,8328,2024-11-05
+158,  John,user159@example.com,Delhi,5972,2024-01-31
+159,Alice   ,user160@example.com,Mumbai,9510,2024-11-28
+160,  John   ,user161@example.com,Mumbai,9751,2024-05-15
+161,  Alice,user162@example.com,Bangalore,4054,2024-03-12
+162,Sophia,user163@example.com,Mumbai,3452,2025-10-14
+163,Emma,user164@example.com,Delhi,4941,2024-03-14
+164,  David,,Pune,8896,2024-01-13
+165,Alice,user166@example.com,Bangalore,3402,2024-12-20
+166,Bob,user167@example.com,,1936,2025-02-24
+167,  Bob,user168@example.com,Bangalore,3370,2025-06-12
+168,Alice,user169@example.com,,,2025-08-30
+169,Emma   ,user170@example.com,Mumbai,7266,2024-05-28
+170,  Michael,user171@example.com,Delhi,4105,2025-04-28
+171,John,user172@example.com,,3889,2025-08-02
+172,Michael,user173@example.com,,8231,2024-06-11
+173,  John,user174@example.com,Delhi,3776,2024-10-19
+174,Emma   ,user175@example.com,Delhi,5923,2024-04-19
+175,John,,Pune,9921,2024-01-12
+176,  Bob,user177@example.com,Pune,5004,2025-07-10
+177,Olivia,user178@example.com,Delhi,9078,2024-02-07
+178,Sophia,user179@example.com,Delhi,9445,2025-09-06
+179,  Emma,user180@example.com,Chennai,3673,2024-06-27
+180,Ava,user181@example.com,Bangalore,4936,2024-05-09
+181,  Bob   ,user182@example.com,,,2024-11-12
+182,  Alice,user183@example.com,,3943,2025-07-16
+183,Olivia,user184@example.com,Hyderabad,8765,2024-01-27
+184,Emma   ,user185@example.com,Pune,8735,2025-07-10
+185,  David,user186@example.com,Delhi,3606,2024-05-16
+186,David,,Chennai,6279,2025-03-09
+187,Bob,user188@example.com,Hyderabad,7739,2025-05-02
+188,  Emma,user189@example.com,Pune,6701,2025-02-18
+189,Alice   ,user190@example.com,Pune,6120,2024-09-01
+190,James,user191@example.com,,4504,2024-02-20
+191,  John,user192@example.com,Hyderabad,8244,2025-11-18
+192,Olivia,user193@example.com,Bangalore,1419,2025-04-28
+193,Olivia,user194@example.com,Pune,4612,2025-03-05
+194,  David,user195@example.com,Chennai,,2025-05-08
+195,  John   ,user196@example.com,Delhi,7785,2025-04-27
+196,David,user197@example.com,Bangalore,6485,2024-09-24
+197,  Emma,,Mumbai,6435,2024-07-13
+198,John,user199#example.com,Chennai,5940,2025-05-08
+199,James   ,user200@example.com,Bangalore,2686,2025-05-22
+200,  David,user201@example.com,,6770,2025-04-09
+201,John,user202@example.com,Pune,6011,2024-09-30
+202,  Michael   ,user203@example.com,Bangalore,1333,2025-06-07
+203,  Emma,user204@example.com,Bangalore,3409,2024-11-26
+204,Alice   ,user205@example.com,Hyderabad,3772,2024-06-10
+205,Olivia,user206@example.com,Chennai,3397,2024-12-18
+206,  John,user207@example.com,Chennai,3593,2025-07-21
+207,Bob,user208@example.com,Bangalore,,2025-08-12
+208,Bob,,Bangalore,5433,2025-01-13
+209,  Bob,user210@example.com,Bangalore,2774,2025-10-21
+210,Michael,user211@example.com,Bangalore,1132,2024-04-01
+211,Ava,user212@example.com,Bangalore,7787,2024-10-25
+212,  Alice,user213@example.com,Delhi,9551,2025-11-24
+213,Sophia,user214@example.com,Bangalore,4758,2024-12-08
+214,Emma   ,user215@example.com,,2274,2024-02-11
+215,  John,user216@example.com,Chennai,4775,2025-11-26
+216,  Sophia   ,user217@example.com,Chennai,8872,2025-03-30
+217,David,user218@example.com,Bangalore,721,2024-04-23
+218,  Emma,user219@example.com,Chennai,736,2025-06-05
+219,Alice   ,,Bangalore,1484,2024-05-17
+220,Olivia,user221@example.com,Pune,,2025-02-10
+221,  John,user222@example.com,Chennai,7001,2025-06-16
+222,Alice,user223@example.com,Mumbai,6740,2025-06-19
+223,  James   ,user224@example.com,Bangalore,5708,2025-11-20
+224,  Ava,user225@example.com,Mumbai,8863,2024-04-12
+225,James,user226@example.com,Delhi,8432,2024-02-25
+226,Olivia,user227@example.com,Bangalore,9025,2025-01-16
+227,  James,user228@example.com,Pune,9796,2025-08-26
+228,Olivia,user229@example.com,Delhi,6282,2024-12-19
+229,Emma   ,user230@example.com,Hyderabad,5239,2024-10-08
+230,  John,,,5765,2025-07-03
+231,James,user232@example.com,,9925,2024-03-14
+232,Olivia,user233@example.com,,4534,2025-07-15
+233,  Alice,user234@example.com,Chennai,,2025-07-25
+234,Emma   ,user235@example.com,,2298,2025-04-17
+235,James,user236@example.com,Pune,722,2025-11-04
+236,  Sophia,user237@example.com,Pune,4491,2024-05-06
+237,  Ava   ,user238@example.com,Pune,4328,2025-09-03
+238,Alice,user239@example.com,Delhi,6308,2024-07-18
+239,  James,user240@example.com,Chennai,8221,2025-03-07
+240,Michael,user241@example.com,Bangalore,8324,2025-02-20
+241,John,,Pune,1216,2025-05-01
+242,  David,user243@example.com,Hyderabad,9984,2024-06-23
+243,Ava,user244@example.com,Bangalore,8480,2025-03-05
+244,Bob   ,user245@example.com,Pune,6407,2025-01-16
+245,  Bob,user246@example.com,Bangalore,8735,2024-03-02
+246,Ava,user247@example.com,Chennai,,2025-04-26
+247,James,user248#example.com,Chennai,4390,2024-12-01
+248,  Alice,user249@example.com,Hyderabad,9683,2025-10-26
+249,Ava   ,user250@example.com,Hyderabad,7916,2024-11-30
+250,Michael,user251@example.com,Delhi,9671,2024-04-03
